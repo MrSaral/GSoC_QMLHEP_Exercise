@@ -10,4 +10,4 @@ I am Saral Uttamani, CS grad student at Stony Brook University. This repo is my 
 5) QuantumComputing.ipynb - Solution to the Quantum Computing Task
 
 
-I have used Python, Google Collaboratory for this task. I used various Python in-built modules and I would like to thank all the developers on board. 
+I have used Python, Google Collaboratory for this task. I used various Python in-built modules and I would like to thank all the developers for these wonderful libraries like Cirq. 
